@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="cat.webp" alt="3D cat holding a star" width="200" />
+<img src="cat-image.png" alt="3D cat holding a star" width="200" />
 
 # Hi, I'm Eman 👋
 
