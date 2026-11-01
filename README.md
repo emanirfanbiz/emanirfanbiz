@@ -65,14 +65,7 @@ Final-year Computer Science student at UMT Lahore, building React apps and ML pr
 - **Version Control**, Meta via Coursera, Oct 2026 · [Verify](https://coursera.org/verify/CLFZ6FYKOVGM)
 - **Programming with JavaScript**, Meta via Coursera, Oct 2026 · [Verify](https://coursera.org/verify/KC4JSKPI9GCG)
 
-## GitHub stats
 
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=emanirfanbiz&show_icons=true&hide_border=true&bg_color=FDF1EC&title_color=D6005E&text_color=4A3524&icon_color=D6005E" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanirfanbiz&layout=compact&hide_border=true&bg_color=FDF1EC&title_color=D6005E&text_color=4A3524" />
-</p>
-
-## Let's connect
 
 Have an internship, a project, or an idea? The easiest way to reach me is my [portfolio](https://eman-irfan.vercel.app) or [email](mailto:emanirfan.biz2004@gmail.com).
 
