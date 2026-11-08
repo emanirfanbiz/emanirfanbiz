@@ -1,76 +1,182 @@
-<!--
-  GitHub profile README for emanirfanbiz.
-  1. Create a PUBLIC repo named exactly:  emanirfanbiz   (same as your username)
-  2. Put this file in it as README.md, plus your cat image as cat.webp (optional)
-  3. Delete this comment block. Add live-demo links later (see the TODO under Featured projects).
--->
+ <div align="center">
 
-<div align="center">
+<img src="cat.webp" width="150" alt="3D cat holding a star" />
 
-<img src="cat-image" alt="3D cat holding a star" width="200" />
+# EMAN IRFAN
 
-# Hi, I'm Eman 👋
+### Computer Science Student | Frontend & AI Developer
 
-### Frontend Developer · AI & Machine Learning · Computer Vision
+*Turning ideas into interfaces and intelligent applications.*
 
-Final-year Computer Science student at UMT Lahore, building React apps and ML projects.
-**Open to AI/ML and software internships.**
+Lahore, Pakistan · University of Management and Technology
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eman--irfan.vercel.app-D6005E?style=for-the-badge&logo=vercel&logoColor=white)](https://eman-irfan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4A3524?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-irfan-2b5657327)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-F6C9DD?style=for-the-badge&logo=gmail&logoColor=4A3524)](mailto:emanirfan.biz2004@gmail.com)
+<br/>
+
+<a href="https://eman-irfan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-D6005E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eman-irfan-2b5657327"><img src="https://img.shields.io/badge/LINKEDIN-4A3524?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:emanirfan.biz2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F6C9DD?style=for-the-badge&logo=gmail&logoColor=4A3524" /></a>
 
 </div>
 
 ---
 
-## About me
+## 01 / ABOUT
 
-- 🎓 BS Computer Science at the **University of Management and Technology**, Lahore (CGPA 3.70, 80% Merit Scholarship)
-- 🧠 I like practical machine learning, computer vision, and research on how people interact with AI
-- ⚛️ I build interfaces with **React**, and small back ends with **Flask** and **Node/Express**
-- 🛠️ Right now: building my [portfolio](https://eman-irfan.vercel.app), publishing my Flask app, and learning more about MongoDB
-- 🔎 Looking for: an **AI/ML or software development internship**
+I'm a final-year Computer Science student at **UMT Lahore**, interested in building useful software and exploring the intersection of AI and technology.
 
-## Tech stack
+- 🎓 **Education:** BS Computer Science · CGPA 3.70 · 80% Merit Scholarship
+- 💻 **Development:** React, JavaScript, Python, Flask and Node.js
+- 🧠 **AI Interests:** Machine Learning, Computer Vision and Human-Computer Interaction
+- 🔭 **Currently working on:** My developer portfolio, Flask applications and MongoDB.
+- 🎯 **Looking for:** AI/ML and Software Development internship opportunities.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,sass&perline=6" alt="Languages" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,bootstrap,mongodb&perline=7" alt="Web" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,sklearn,pandas,numpy&perline=4" alt="Machine learning" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ubuntu,wordpress&perline=6" alt="Tools" />
-</p>
+---
 
-## Featured projects
-
-| Project | What it does | Built with | Links |
-|---|---|---|---|
-| **AI Chatbot Interaction (HCI research)** | Systematic review of 55 papers, then 6 ML models compared to predict chatbot user satisfaction. Random Forest reached 72.7% accuracy. | Python, scikit-learn, Pandas, Seaborn | [Code](https://github.com/emanirfanbiz/HCI-Project) |
-| **Attendance with Face Recognition** | Marks attendance with face recognition and checks depth so photos can't fool it. | Python, OpenCV, LBPH, stereo vision | [Code](https://github.com/emanirfanbiz/Attendance-with-Face-Recognition-System) |
-| **Chef Claude** | React app that suggests recipes from the ingredients you type, using an AI model. | React, Vite, Hugging Face API | [Code](https://github.com/emanirfanbiz/ChefClaude) |
-| **Tenzies** | Dice game: roll, freeze the ones you want, and match them all. | React, hooks | [Code](https://github.com/emanirfanbiz/TenziesGame) |
-| **Task Smash** | Task manager where you can add and delete tasks that stay saved. | Flask, SQLAlchemy, SCSS | Coming soon |
-
-<!-- TODO: add a "Live demo" link and a screenshot for each project once they are deployed. -->
-
-## Certifications
-
-- **Git and GitHub Essentials**, IBM via Coursera, Jun 2026 · [Verify](https://www.credly.com/badges/de8e9b9a-2e3c-42ca-aa17-824a9b5c1dda)
-- **Version Control**, Meta via Coursera, Oct 2026 · [Verify](https://coursera.org/verify/CLFZ6FYKOVGM)
-- **Programming with JavaScript**, Meta via Coursera, Oct 2026 · [Verify](https://coursera.org/verify/KC4JSKPI9GCG)
-
-
-
-Have an internship, a project, or an idea? The easiest way to reach me is my [portfolio](https://eman-irfan.vercel.app) or [email](mailto:emanirfan.biz2004@gmail.com).
+## 02 / TECHNICAL TOOLKIT
 
 <div align="center">
 
-*Learn. Build. Ship.* ✨
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,sass&theme=light" />
+
+<br/><br/>
+
+**FRONTEND & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,bootstrap,mongodb&theme=light" />
+
+<br/><br/>
+
+**MACHINE LEARNING & DATA**
+
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pandas,numpy&theme=light" />
+
+<br/><br/>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ubuntu,wordpress&theme=light" />
+
+</div>
+
+---
+
+## 03 / SELECTED PROJECTS
+
+A collection of academic, research and personal development projects.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Chatbot Interaction
+
+**HCI Research & Machine Learning**
+
+Systematic review of 55 research papers, followed by comparison of six ML models to predict chatbot user satisfaction.
+
+**Best result:** Random Forest · 72.7% accuracy
+
+`Python` `Scikit-learn` `Pandas`
+
+<a href="https://github.com/emanirfanbiz/HCI-Project">↗ View Repository</a>
+
+</td>
+<td width="50%">
+
+### 👁️ Face Recognition Attendance
+
+**Computer Vision**
+
+An attendance management system using face recognition with depth verification to prevent photo-based spoofing.
+
+`Python` `OpenCV` `LBPH` `Stereo Vision`
+
+<a href="https://github.com/emanirfanbiz/Attendance-with-Face-Recognition-System">↗ View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍳 Chef Claude
+
+**AI-Powered Recipe Application**
+
+A React application that suggests recipes based on ingredients entered by the user, using an AI model.
+
+`React` `Vite` `Hugging Face API`
+
+<a href="https://github.com/emanirfanbiz/ChefClaude">↗ View Repository</a>
+
+</td>
+<td width="50%">
+
+### 🎲 Tenzies
+
+**Interactive React Game**
+
+A dice game where players roll, freeze selected dice and try to match all dice to win.
+
+`React` `JavaScript` `Hooks`
+
+<a href="https://github.com/emanirfanbiz/TenziesGame">↗ View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ Task Smash
+
+**Flask Task Manager**
+
+A task management application with the ability to add, delete and persist tasks.
+
+`Python` `Flask` `SQLAlchemy` `SCSS`
+
+*Deployment in progress.*
+
+</td>
+<td width="50%">
+
+### ✦ More projects coming
+
+Currently exploring new ideas in AI, web development and software engineering.
+
+*Building, experimenting and learning.*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 / CERTIFICATIONS
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Git and GitHub Essentials | IBM · Coursera | June 2026 |
+| Version Control | Meta · Coursera | October 2026 |
+| Programming with JavaScript | Meta · Coursera | October 2026 |
+
+[View Git and GitHub Essentials](https://www.credly.com/badges/de8e9b9a-2e3c-42ca-aa17-824a9b5c1dda) · [Verify Version Control](https://coursera.org/verify/CLFZ6FYKOVGM) · [Verify JavaScript](https://coursera.org/verify/KC4JSKPI9GCG)
+
+---
+
+<div align="center">
+
+## LET'S CONNECT
+
+Have an interesting project, internship opportunity or idea?
+
+<a href="https://eman-irfan.vercel.app">Portfolio</a> · <a href="mailto:emanirfan.biz2004@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/eman-irfan-2b5657327">LinkedIn</a>
+
+<br/>
+
+**Learn. Build. Ship.** ✨
+
+<sub>Designed with curiosity and a little bit of creativity.</sub>
 
 </div>
