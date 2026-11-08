@@ -126,7 +126,7 @@ A console-based booking and records system that puts core DSA ideas to work: **a
 
 <br/>
 
-<img src="assets/connect.svg" alt="Let's build something" width="100%" />
+<img src="connect.svg" alt="Let's build something" width="100%" />
 
 Have an idea, an opportunity, or just something interesting in mind? I'm open to roles in **AI/ML and Software Development**, and I'd love to hear about it.
 
