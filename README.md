@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="assets/about.svg" alt="About me" width="100%" />
+<img src="about.svg" alt="About me" width="100%" />
 
 ### Hi, I'm Eman 👋
 
@@ -28,7 +28,7 @@ I love the moment an idea stops being a sketch and becomes something you can cli
 
 <br/>
 
-<img src="assets/tech.svg" alt="Tech I work with" width="100%" />
+<img src="tech.svg" alt="Tech I work with" width="100%" />
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sass&theme=dark" alt="Languages" />
@@ -46,7 +46,7 @@ I love the moment an idea stops being a sketch and becomes something you can cli
 
 <br/>
 
-<img src="assets/projects.svg" alt="Things I've built" width="100%" />
+<img src="projects.svg" alt="Things I've built" width="100%" />
 
 ### 🤖 AI Chatbot Interaction Effectiveness
 *Human-computer interaction · 2025–2026*
@@ -110,7 +110,7 @@ A console-based booking and records system that puts core DSA ideas to work: **a
 
 <br/>
 
-<img src="assets/certs.svg" alt="Certifications" width="100%" />
+<img src="certs.svg" alt="Certifications" width="100%" />
 
 - 🏆 **Git and GitHub Essentials** · IBM, Coursera · Jun 2026 · [Verify ↗](https://www.credly.com/badges/de8e9b9a-2e3c-42ca-aa17-824a9b5c1dda)
 - 🏆 **Version Control** · Meta, Coursera · Oct 2026 · [Verify ↗](https://coursera.org/verify/CLFZ6FYKOVGM)
@@ -118,7 +118,7 @@ A console-based booking and records system that puts core DSA ideas to work: **a
 
 <br/>
 
-<img src="assets/beyond.svg" alt="Beyond the code" width="100%" />
+<img src="beyond.svg" alt="Beyond the code" width="100%" />
 
 - 🎓 **Academic excellence:** a 3.70 CGPA and an 80% Merit Scholarship at UMT.
 - 🥇 **College topper:** 89% in FSC Pre-Engineering.
