@@ -1,292 +1,161 @@
- <div align="center">
+<h1 align="center">Eman Irfan</h1>
 
-<p>
-  <sub>COMPUTER SCIENCE · SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE</sub>
+<h3 align="center">Frontend Developer &nbsp;·&nbsp; AI &amp; Machine Learning</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3200&pause=900&color=EF8182&center=true&vCenter=true&width=620&height=45&lines=Building+digital+experiences;Exploring+intelligent+systems;React+%C2%B7+Python+%C2%B7+Computer+Vision;From+first+idea+to+working+app" alt="Building digital experiences, exploring intelligent systems" />
 </p>
 
-# E M A N &nbsp; I R F A N
+<p align="center">
+  <img src="https://img.shields.io/badge/Lahore,_Pakistan-541414?style=flat-square&logo=googlemaps&logoColor=EF8182" alt="Lahore, Pakistan" />
+  <img src="https://img.shields.io/badge/UMT-2027-541414?style=flat-square&logo=googlescholar&logoColor=EF8182" alt="UMT 2027" />
+  <img src="https://img.shields.io/badge/CGPA-3.70-541414?style=flat-square&logo=bookstack&logoColor=EF8182" alt="CGPA 3.70" />
+  <img src="https://img.shields.io/badge/Open_to-AI%2FML_%26_Software_Roles-F36363?style=flat-square&labelColor=541414" alt="Open to AI/ML and software roles" />
+</p>
 
-**Frontend Developer · AI & Machine Learning**
+<p align="center">
+  <a href="https://eman-irfan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F36363?style=for-the-badge&logo=vercel&logoColor=541414" alt="Portfolio" /></a>
+  <a href="https://github.com/emanirfanbiz"><img src="https://img.shields.io/badge/GitHub-541414?style=for-the-badge&logo=github&logoColor=EF8182" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/eman-irfan-2b5657327"><img src="https://img.shields.io/badge/LinkedIn-EF8182?style=for-the-badge&logo=linkedin&logoColor=541414" alt="LinkedIn" /></a>
+  <a href="mailto:emanirfan.biz2004@gmail.com"><img src="https://img.shields.io/badge/Email-D0D0C8?style=for-the-badge&logo=gmail&logoColor=541414" alt="Email" /></a>
+</p>
 
-Building digital experiences and exploring intelligent systems.
+---
 
-Lahore, Pakistan &nbsp; · &nbsp; UMT '27
+## 👋 Hi, I'm Eman
 
-<br/>
+I'm a final-year Computer Science student at the **University of Management and Technology, Lahore**, specializing in **Artificial Intelligence** and **Software Development**.
 
-<a href="https://eman-irfan.vercel.app">Portfolio</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/emanirfanbiz">GitHub</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eman-irfan-2b5657327">LinkedIn</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="mailto:emanirfan.biz2004@gmail.com">Get in touch</a>
+I like turning an idea into something you can click, run and show someone. My curiosity sits where **clean interfaces** meet **intelligent systems**: designing the frontend, wiring up the backend, and understanding the engineering and the models underneath.
 
-<br/>
+🎓 **BSc Computer Science**, UMT (2023 – 2027) · CGPA **3.70 / 4.00** · **80% Merit Scholarship**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
+**Right now I'm focused on:** React.js and modern frontend development · Python and Flask apps · machine learning workflows · computer vision research · software engineering fundamentals.
 
-</div>
+---
 
-<br/>
+## 🧰 Tech I work with
 
-### 01 &nbsp; / &nbsp; A LITTLE ABOUT ME
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-541414?style=flat-square&logo=python&logoColor=EF8182)
+![JavaScript](https://img.shields.io/badge/JavaScript-541414?style=flat-square&logo=javascript&logoColor=EF8182)
+![C++](https://img.shields.io/badge/C++-541414?style=flat-square&logo=cplusplus&logoColor=EF8182)
+![HTML](https://img.shields.io/badge/HTML-541414?style=flat-square&logo=html5&logoColor=EF8182)
+![CSS](https://img.shields.io/badge/CSS-541414?style=flat-square&logo=css3&logoColor=EF8182)
+![Sass](https://img.shields.io/badge/Sass-541414?style=flat-square&logo=sass&logoColor=EF8182)
 
-I'm a final-year Computer Science student at the **University of Management and Technology, Lahore**, specializing in Artificial Intelligence and Software Development.
+**Web**<br/>
+![React](https://img.shields.io/badge/React-541414?style=flat-square&logo=react&logoColor=EF8182)
+![Vite](https://img.shields.io/badge/Vite-541414?style=flat-square&logo=vite&logoColor=EF8182)
+![Node.js](https://img.shields.io/badge/Node.js-541414?style=flat-square&logo=nodedotjs&logoColor=EF8182)
+![Express](https://img.shields.io/badge/Express-541414?style=flat-square&logo=express&logoColor=EF8182)
+![Flask](https://img.shields.io/badge/Flask-541414?style=flat-square&logo=flask&logoColor=EF8182)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-541414?style=flat-square&logo=bootstrap&logoColor=EF8182)
+![MongoDB](https://img.shields.io/badge/MongoDB-541414?style=flat-square&logo=mongodb&logoColor=EF8182)
 
-My interests span frontend engineering, backend development, machine learning, and computer vision. I enjoy taking an idea from its initial concept to a working application, experimenting with technologies and understanding the engineering behind it.
+**Machine learning and data**<br/>
+![OpenCV](https://img.shields.io/badge/OpenCV-541414?style=flat-square&logo=opencv&logoColor=EF8182)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-541414?style=flat-square&logo=scikitlearn&logoColor=EF8182)
+![Pandas](https://img.shields.io/badge/Pandas-541414?style=flat-square&logo=pandas&logoColor=EF8182)
+![NumPy](https://img.shields.io/badge/NumPy-541414?style=flat-square&logo=numpy&logoColor=EF8182)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Tools**<br/>
+![Git](https://img.shields.io/badge/Git-541414?style=flat-square&logo=git&logoColor=EF8182)
+![GitHub](https://img.shields.io/badge/GitHub-541414?style=flat-square&logo=github&logoColor=EF8182)
+![Figma](https://img.shields.io/badge/Figma-541414?style=flat-square&logo=figma&logoColor=EF8182)
+![VS Code](https://img.shields.io/badge/VS_Code-541414?style=flat-square&logo=visualstudiocode&logoColor=EF8182)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-541414?style=flat-square&logo=ubuntu&logoColor=EF8182)
+![WordPress](https://img.shields.io/badge/WordPress-541414?style=flat-square&logo=wordpress&logoColor=EF8182)
 
-**EDUCATION**
+<sub>Also familiar with SQL, SQLAlchemy, Matplotlib, Seaborn, Google Colab and Jupyter Notebook.</sub>
 
-BSc Computer Science
+---
 
-University of Management and Technology
+## 🚀 Things I've built
 
-`2023 — 2027`
+### 🤖 AI Chatbot Interaction Effectiveness
+*Human-computer interaction · 2025–2026*
 
-CGPA: **3.70 / 4.00**
+What makes people trust and enjoy talking to AI chatbots? I explored it through a systematic literature review of **55 peer-reviewed papers**, building a dataset of 55 rows and 24 features and comparing **six ML/DL models**. Random Forest reached **72.73% accuracy**, and the study surfaced **anthropomorphism, personalization and trust** as key design factors.
 
-80% Merit Scholarship
+`Python` `Random Forest` `SVM` `MLP` `Pandas` · [**View source ↗**](https://github.com/emanirfanbiz/HCI-Project)
 
-</td>
-<td width="50%" valign="top">
+### 👁️ Face Recognition & Depth Verification
+*Computer vision · 2025–2026*
 
-**CURRENT FOCUS**
+An attendance system that doesn't just recognize a face, it checks that the face is *real*. It combines **Haar Cascade** detection and **LBPH** recognition with **SIFT, HOG, Harris and Canny** feature extraction, uses **stereo triangulation** for depth estimation, and catches photo spoofing with **Laplacian-variance** analysis.
 
-- React.js & frontend development
-- Python & Flask applications
-- Machine learning workflows
-- Computer vision research
-- Software engineering fundamentals
+`Python` `OpenCV` `LBPH` `SIFT` `Stereo Vision` · [**View source ↗**](https://github.com/emanirfanbiz/Attendance-with-Face-Recognition-System)
 
-</td>
-</tr>
-</table>
+### 🍳 Chef Claude
+*AI-powered web app · 2026*
 
-<br/>
+Tell it what's in your kitchen and it suggests a recipe. A React app powered by an AI model through the Hugging Face Inference API, with asynchronous API calls, controlled inputs and conditional rendering turning raw ingredients into a smooth, interactive experience.
 
-### 02 &nbsp; / &nbsp; TECHNOLOGIES
+`React` `JavaScript` `Vite` `REST API` · [**View source ↗**](https://github.com/emanirfanbiz/ChefClaude)
 
-<sub>TOOLS AND TECHNOLOGIES I'VE WORKED WITH</sub>
+### ✅ Task Smash
+*Full-stack web development · 2026*
 
-**01 — Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,sass&theme=dark" />
-
-**02 — Web Development**
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask,bootstrap,mongodb&theme=dark" />
-
-**03 — Machine Learning & Data Science**
-
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,pandas,numpy&theme=dark" />
-
-**04 — Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,ubuntu,wordpress&theme=dark" />
-
-<sub>
-Also familiar with: SQL, SQLAlchemy, Matplotlib, Seaborn, Google Colab and Jupyter Notebook.
-</sub>
-
-<br/>
-
-### 03 &nbsp; / &nbsp; SELECTED WORK
-
-<sub>ACADEMIC PROJECTS · RESEARCH · PERSONAL DEVELOPMENT</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01. AI CHATBOT INTERACTION EFFECTIVENESS**
-
-<sub>HUMAN-COMPUTER INTERACTION · 2025–2026</sub>
-
-Explored the factors influencing human interaction with AI chatbots through a systematic literature review of 55 peer-reviewed papers.
-
-- Constructed a dataset with 55 rows and 24 features.
-- Compared six ML/DL models.
-- Random Forest achieved 72.73% accuracy.
-- Identified anthropomorphism, personalization and trust as key design factors.
-
-`Python` `Random Forest` `SVM` `MLP` `Pandas`
-
-<a href="https://github.com/emanirfanbiz/HCI-Project">View source ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-**02. FACE RECOGNITION & DEPTH VERIFICATION**
-
-<sub>COMPUTER VISION · 2025–2026</sub>
-
-A computer vision attendance system combining facial recognition with stereo vision-based depth estimation.
-
-- Implemented Haar Cascade face detection and LBPH recognition.
-- Applied SIFT, HOG, Harris and Canny feature extraction.
-- Used stereo triangulation for depth estimation.
-- Added Laplacian variance-based photo spoof detection.
-
-`Python` `OpenCV` `LBPH` `SIFT` `Stereo Vision`
-
-<a href="https://github.com/emanirfanbiz/Attendance-with-Face-Recognition-System">View source ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03. CHEF CLAUDE**
-
-<sub>AI-POWERED WEB APPLICATION · 2026</sub>
-
-A React application that generates recipe suggestions based on ingredients entered by the user.
-
-- Integrated an AI model through Hugging Face Inference API.
-- Managed asynchronous API calls and responses.
-- Implemented controlled inputs and conditional rendering.
-
-`React` `JavaScript` `Vite` `REST API`
-
-<a href="https://github.com/emanirfanbiz/ChefClaude">View source ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-**04. TASK SMASH**
-
-<sub>FULL-STACK WEB DEVELOPMENT · 2026</sub>
-
-A Flask-based task manager with database-backed task management.
-
-- Implemented add and delete functionality.
-- Connected application data through SQLAlchemy.
-- Organized backend routes and Flask templates.
-- Styled the interface using SCSS.
+A Flask task manager with database-backed persistence, so your to-dos survive a refresh. Add and delete tasks, data handled through **SQLAlchemy**, organized routes and templates, and an interface styled with **SCSS**. *Deployment in progress.*
 
 `Python` `Flask` `SQLAlchemy` `SCSS`
 
-<sub>Deployment in progress.</sub>
+### 🎲 Tenzies Dice Game
+*Frontend development · 2026*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A playful, interactive dice game built with React, and a hands-on way to master state and hooks: reusable components, game state managed with **React hooks**, and dice selection, freezing and win conditions.
 
-**05. TENZIES DICE GAME**
+`React` `JavaScript` `CSS` · [**View source ↗**](https://github.com/emanirfanbiz/TenziesGame)
 
-<sub>FRONTEND DEVELOPMENT · 2026</sub>
+### ❤️ Cardiovascular Disease Prediction
+*Machine learning · 2025*
 
-An interactive dice game developed with React.
-
-- Built reusable interface components.
-- Managed game state using React hooks.
-- Implemented dice selection, freezing and win conditions.
-
-`React` `JavaScript` `CSS`
-
-<a href="https://github.com/emanirfanbiz/TenziesGame">View source ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-**06. CARDIOVASCULAR DISEASE PREDICTION**
-
-<sub>MACHINE LEARNING · 2025</sub>
-
-Explored cardiovascular health patterns using supervised and unsupervised learning.
-
-- Developed a Random Forest classification pipeline.
-- Applied K-Means clustering and Apriori association rules.
-- Achieved 98.5% prediction accuracy on the project dataset.
+Finding patterns in cardiovascular health data with both supervised and unsupervised learning: a **Random Forest** classification pipeline, **K-Means** clustering and **Apriori** association rules, reaching **98.5% prediction accuracy** on the project dataset.
 
 `Python` `Random Forest` `K-Means` `Apriori`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🌐 WordPress Web Development
+*Web development · 2025–2026*
 
-**07. WORDPRESS WEB DEVELOPMENT**
-
-<sub>WEB DEVELOPMENT · 2025–2026</sub>
-
-Developed multiple client-focused websites with visually consistent, responsive layouts.
+Designed and developed multiple client-focused websites with visually consistent, responsive layouts.
 
 `WordPress` `JavaScript` `CSS`
 
-</td>
-<td width="50%" valign="top">
+### 🏨 Hotel Management System
+*Data structures & algorithms · 2024*
 
-**08. HOTEL MANAGEMENT SYSTEM**
-
-<sub>DATA STRUCTURES & ALGORITHMS · 2024</sub>
-
-Console-based hotel booking and records management system.
-
-- Implemented arrays and linked lists.
-- Applied sorting and searching algorithms.
-- Considered algorithmic complexity.
+A console-based hotel booking and records system that puts core DSA concepts to practical use: **arrays and linked lists**, **sorting and searching algorithms**, and a close eye on **algorithmic complexity**.
 
 `C++` `DSA`
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## 📜 Certifications
 
-### 04 &nbsp; / &nbsp; CERTIFICATIONS
+- **Git and GitHub Essentials**, IBM · Coursera, Jun 2026 · [Verify ↗](https://www.credly.com/badges/de8e9b9a-2e3c-42ca-aa17-824a9b5c1dda)
+- **Version Control**, Meta · Coursera, Oct 2026 · [Verify ↗](https://coursera.org/verify/CLFZ6FYKOVGM)
+- **Programming with JavaScript**, Meta · Coursera, Oct 2026 · [Verify ↗](https://coursera.org/verify/KC4JSKPI9GCG)
 
-| Certification | Organization | Completed |
-|:---|:---|:---|
-| Git and GitHub Essentials | IBM · Coursera | Jun 2026 |
-| Version Control | Meta · Coursera | Oct 2026 |
-| Programming with JavaScript | Meta · Coursera | Oct 2026 |
+---
 
-<sub>
-<a href="https://www.credly.com/badges/de8e9b9a-2e3c-42ca-aa17-824a9b5c1dda">IBM Certificate ↗</a>
-&nbsp; · &nbsp;
-<a href="https://coursera.org/verify/CLFZ6FYKOVGM">Meta Certificate ↗</a>
-&nbsp; · &nbsp;
-<a href="https://coursera.org/verify/KC4JSKPI9GCG">Meta JavaScript Certificate ↗</a>
-</sub>
+## ✨ Beyond the code
 
-<br/>
+- 🎓 **Academic excellence:** 3.70 CGPA and an 80% Merit Scholarship at UMT.
+- 🥇 **College achievement:** 89% in FSC Pre-Engineering, finishing as College Topper.
+- 🌱 **Always learning:** growing through React, Node.js, Express.js, Flask and AI technologies, by building real projects and learning independently.
 
-### 05 &nbsp; / &nbsp; BEYOND THE CODE
+---
 
-- **Academic Excellence:** 3.70 CGPA and 80% Merit Scholarship at UMT.
-- **College Achievement:** 89% in FSC Pre-Engineering; College Topper.
-- **Continuous Learning:** Exploring React, Node.js, Express.js, Flask and AI technologies through independent learning and practical projects.
+<h3 align="center">Have something interesting in mind?</h3>
 
-<br/>
+<p align="center">
+  Open to opportunities in AI/ML and Software Development.<br/>
+  Let's build something worth remembering.
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%" />
-
-<br/>
-
-### HAVE SOMETHING INTERESTING IN MIND?
-
-Open to opportunities in AI/ML and Software Development.
-
-<a href="https://eman-irfan.vercel.app">PORTFOLIO</a>
-&nbsp; · &nbsp;
-<a href="mailto:emanirfan.biz2004@gmail.com">EMAIL ME</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/eman-irfan-2b5657327">CONNECT ON LINKEDIN</a>
-
-<br/><br/>
-
-<sub>DESIGNED & BUILT WITH CURIOSITY.</sub>
-
-**E M A N &nbsp; I R F A N** &nbsp; ✦
-
-</div>
+<p align="center">
+  <a href="https://eman-irfan.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:emanirfan.biz2004@gmail.com">Email me</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/eman-irfan-2b5657327">Connect on LinkedIn</a>
+</p>
