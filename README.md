@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Eman Irfan · Frontend Developer · AI & Machine Learning" width="100%" />
+  <img src="header.svg" alt="Eman Irfan · Frontend Developer · AI & Machine Learning" width="100%" />
 </p>
 
 <p align="center">
