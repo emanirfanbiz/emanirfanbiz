@@ -1,7 +1,5 @@
  <div align="center">
 
-<img src="cat.webp" width="150" alt="3D cat holding a star" />
-
 # EMAN IRFAN
 
 ### Computer Science Student | Frontend & AI Developer
